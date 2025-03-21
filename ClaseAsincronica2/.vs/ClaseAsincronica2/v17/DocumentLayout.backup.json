@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC MASTER\\Downloads\\ClaseAsincronica2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F9B1651F-BC04-4AFB-B9AF-F3E60B60578F}|..\\AuthTest\\AuthTest.csproj|c:\\users\\pc master\\downloads\\authtest\\listaciclicadobletest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6F77846-CE2D-485B-ABC9-2200A3677B3B}|ClaseAsincronica2.csproj|c:\\users\\pc master\\downloads\\claseasincronica2\\nodosimple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6F77846-CE2D-485B-ABC9-2200A3677B3B}|ClaseAsincronica2.csproj|solutionrelative:nodosimple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6F77846-CE2D-485B-ABC9-2200A3677B3B}|ClaseAsincronica2.csproj|c:\\users\\pc master\\downloads\\claseasincronica2\\nododoble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6F77846-CE2D-485B-ABC9-2200A3677B3B}|ClaseAsincronica2.csproj|solutionrelative:nododoble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6F77846-CE2D-485B-ABC9-2200A3677B3B}|ClaseAsincronica2.csproj|c:\\users\\pc master\\downloads\\claseasincronica2\\listacircularsimple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6F77846-CE2D-485B-ABC9-2200A3677B3B}|ClaseAsincronica2.csproj|solutionrelative:listacircularsimple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6F77846-CE2D-485B-ABC9-2200A3677B3B}|ClaseAsincronica2.csproj|c:\\users\\pc master\\downloads\\claseasincronica2\\listacirculardoble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6F77846-CE2D-485B-ABC9-2200A3677B3B}|ClaseAsincronica2.csproj|solutionrelative:listacirculardoble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9B1651F-BC04-4AFB-B9AF-F3E60B60578F}|..\\AuthTest\\AuthTest.csproj|c:\\users\\pc master\\downloads\\authtest\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9B1651F-BC04-4AFB-B9AF-F3E60B60578F}|..\\AuthTest\\AuthTest.csproj|c:\\users\\pc master\\downloads\\authtest\\listaciclicasimpletest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NodoSimple.cs",
+              "DocumentMoniker": "C:\\Users\\PC MASTER\\Downloads\\ClaseAsincronica2\\NodoSimple.cs",
+              "RelativeDocumentMoniker": "NodoSimple.cs",
+              "ToolTip": "C:\\Users\\PC MASTER\\Downloads\\ClaseAsincronica2\\NodoSimple.cs",
+              "RelativeToolTip": "NodoSimple.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T02:28:27.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NodoDoble.cs",
+              "DocumentMoniker": "C:\\Users\\PC MASTER\\Downloads\\ClaseAsincronica2\\NodoDoble.cs",
+              "RelativeDocumentMoniker": "NodoDoble.cs",
+              "ToolTip": "C:\\Users\\PC MASTER\\Downloads\\ClaseAsincronica2\\NodoDoble.cs",
+              "RelativeToolTip": "NodoDoble.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T02:28:24.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ListaCircularSimple.cs",
+              "DocumentMoniker": "C:\\Users\\PC MASTER\\Downloads\\ClaseAsincronica2\\ListaCircularSimple.cs",
+              "RelativeDocumentMoniker": "ListaCircularSimple.cs",
+              "ToolTip": "C:\\Users\\PC MASTER\\Downloads\\ClaseAsincronica2\\ListaCircularSimple.cs",
+              "RelativeToolTip": "ListaCircularSimple.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T02:28:22.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ListaCiclicaDobleTest.cs",
+              "DocumentMoniker": "C:\\Users\\PC MASTER\\Downloads\\AuthTest\\ListaCiclicaDobleTest.cs",
+              "RelativeDocumentMoniker": "..\\AuthTest\\ListaCiclicaDobleTest.cs",
+              "ToolTip": "C:\\Users\\PC MASTER\\Downloads\\AuthTest\\ListaCiclicaDobleTest.cs",
+              "RelativeToolTip": "..\\AuthTest\\ListaCiclicaDobleTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T02:24:41.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ListaCircularDoble.cs",
+              "DocumentMoniker": "C:\\Users\\PC MASTER\\Downloads\\ClaseAsincronica2\\ListaCircularDoble.cs",
+              "RelativeDocumentMoniker": "ListaCircularDoble.cs",
+              "ToolTip": "C:\\Users\\PC MASTER\\Downloads\\ClaseAsincronica2\\ListaCircularDoble.cs",
+              "RelativeToolTip": "ListaCircularDoble.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T02:28:19.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MSTestSettings.cs",
+              "DocumentMoniker": "C:\\Users\\PC MASTER\\Downloads\\AuthTest\\MSTestSettings.cs",
+              "RelativeDocumentMoniker": "..\\AuthTest\\MSTestSettings.cs",
+              "ToolTip": "C:\\Users\\PC MASTER\\Downloads\\AuthTest\\MSTestSettings.cs",
+              "RelativeToolTip": "..\\AuthTest\\MSTestSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T02:25:10.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ListaCiclicaSimpleTest.cs",
+              "DocumentMoniker": "C:\\Users\\PC MASTER\\Downloads\\AuthTest\\ListaCiclicaSimpleTest.cs",
+              "RelativeDocumentMoniker": "..\\AuthTest\\ListaCiclicaSimpleTest.cs",
+              "ToolTip": "C:\\Users\\PC MASTER\\Downloads\\AuthTest\\ListaCiclicaSimpleTest.cs",
+              "RelativeToolTip": "..\\AuthTest\\ListaCiclicaSimpleTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T02:24:19.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

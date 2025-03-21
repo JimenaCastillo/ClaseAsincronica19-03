@@ -1,0 +1,14 @@
+C:\Users\PC MASTER\Downloads\ClaseAsincronica2\bin\Debug\net8.0\ClaseAsincronica2.exe
+C:\Users\PC MASTER\Downloads\ClaseAsincronica2\bin\Debug\net8.0\ClaseAsincronica2.deps.json
+C:\Users\PC MASTER\Downloads\ClaseAsincronica2\bin\Debug\net8.0\ClaseAsincronica2.runtimeconfig.json
+C:\Users\PC MASTER\Downloads\ClaseAsincronica2\bin\Debug\net8.0\ClaseAsincronica2.dll
+C:\Users\PC MASTER\Downloads\ClaseAsincronica2\bin\Debug\net8.0\ClaseAsincronica2.pdb
+C:\Users\PC MASTER\Downloads\ClaseAsincronica2\obj\Debug\net8.0\ClaseAsincronica2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC MASTER\Downloads\ClaseAsincronica2\obj\Debug\net8.0\ClaseAsincronica2.AssemblyInfoInputs.cache
+C:\Users\PC MASTER\Downloads\ClaseAsincronica2\obj\Debug\net8.0\ClaseAsincronica2.AssemblyInfo.cs
+C:\Users\PC MASTER\Downloads\ClaseAsincronica2\obj\Debug\net8.0\ClaseAsincronica2.csproj.CoreCompileInputs.cache
+C:\Users\PC MASTER\Downloads\ClaseAsincronica2\obj\Debug\net8.0\ClaseAsincronica2.dll
+C:\Users\PC MASTER\Downloads\ClaseAsincronica2\obj\Debug\net8.0\refint\ClaseAsincronica2.dll
+C:\Users\PC MASTER\Downloads\ClaseAsincronica2\obj\Debug\net8.0\ClaseAsincronica2.pdb
+C:\Users\PC MASTER\Downloads\ClaseAsincronica2\obj\Debug\net8.0\ClaseAsincronica2.genruntimeconfig.cache
+C:\Users\PC MASTER\Downloads\ClaseAsincronica2\obj\Debug\net8.0\ref\ClaseAsincronica2.dll

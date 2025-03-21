@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "G00W3k2qBYs=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC MASTER\\Downloads\\AuthTest\\AuthTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC MASTER\\.nuget\\packages\\mstest.analyzers\\3.8.3\\mstest.analyzers.3.8.3.nupkg.sha512",
+    "C:\\Users\\PC MASTER\\.nuget\\packages\\mstest.testframework\\3.8.3\\mstest.testframework.3.8.3.nupkg.sha512"
+  ],
+  "logs": []
+}

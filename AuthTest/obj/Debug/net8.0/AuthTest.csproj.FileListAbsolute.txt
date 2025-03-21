@@ -1,0 +1,5 @@
+C:\Users\PC MASTER\Downloads\AuthTest\obj\Debug\net8.0\AuthTest.csproj.AssemblyReference.cache
+C:\Users\PC MASTER\Downloads\AuthTest\obj\Debug\net8.0\AuthTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC MASTER\Downloads\AuthTest\obj\Debug\net8.0\AuthTest.AssemblyInfoInputs.cache
+C:\Users\PC MASTER\Downloads\AuthTest\obj\Debug\net8.0\AuthTest.AssemblyInfo.cs
+C:\Users\PC MASTER\Downloads\AuthTest\obj\Debug\net8.0\AuthTest.csproj.CoreCompileInputs.cache
